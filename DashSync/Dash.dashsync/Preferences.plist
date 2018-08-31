@@ -9,7 +9,7 @@
 			<key>Emoji</key>
 			<dict>
 				<key>date</key>
-				<date>2018-07-08T08:21:01Z</date>
+				<date>2018-08-30T02:04:46Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -25,7 +25,7 @@
 			<key>Git</key>
 			<dict>
 				<key>date</key>
-				<date>2018-07-08T08:21:01Z</date>
+				<date>2018-08-30T02:04:46Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -46,7 +46,7 @@
 			<key>Sublime_Text_3</key>
 			<dict>
 				<key>date</key>
-				<date>2018-07-08T08:21:00Z</date>
+				<date>2018-08-30T02:04:47Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -62,7 +62,7 @@
 			<key>Vim</key>
 			<dict>
 				<key>date</key>
-				<date>2018-07-08T08:21:00Z</date>
+				<date>2018-08-30T02:04:46Z</date>
 				<key>entry</key>
 				<dict>
 					<key>aliases</key>
@@ -202,22 +202,22 @@
 			<key>http://kapeli.com/feeds/AppleScript.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-12-07T09:13:58Z</date>
+				<date>2018-08-30T02:06:00Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Bash.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-11-24T16:46:47Z</date>
+				<date>2018-08-30T02:04:48Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/C++.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-11-24T16:31:52Z</date>
+				<date>2018-08-30T02:06:19Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Go.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2018-03-16T09:30:16Z</date>
+				<date>2018-08-30T02:05:07Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Java_SE8.xml</key>
 			<dict>
@@ -227,7 +227,7 @@
 			<key>http://kapeli.com/feeds/Markdown.xml</key>
 			<dict>
 				<key>date</key>
-				<date>2017-12-01T03:13:10Z</date>
+				<date>2018-08-30T02:05:14Z</date>
 			</dict>
 			<key>http://kapeli.com/feeds/Python_2.xml</key>
 			<dict>
@@ -272,6 +272,26 @@
 			<string>Snippets Only</string>
 			<key>placeholder</key>
 			<string>Search Snippets</string>
+			<key>searchSnippets</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>docsets</key>
+			<array>
+				<string>~/Library/Application Support/Dash/DocSets/Java_SE8/Java.docset</string>
+			</array>
+			<key>name</key>
+			<string>Java Only</string>
+			<key>searchSnippets</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>docsets</key>
+			<array>
+				<string>~/Library/Application Support/Dash/DocSets/C++/C++.docset</string>
+			</array>
+			<key>name</key>
+			<string>C++ Only</string>
 			<key>searchSnippets</key>
 			<true/>
 		</dict>
